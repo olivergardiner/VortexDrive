@@ -1,1 +1,12 @@
+# Ignore list for DesignSpark PCB, a PCB layout tool
+
+# Backup files
+~*.prj
+~*.sch
+~*.pcb
+
+# Report files
+*.mop
+*Report).txt
+
 *.zip
