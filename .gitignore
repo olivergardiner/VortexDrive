@@ -20,6 +20,7 @@ desktop.ini
 *.emf
 *.svg
 *.vsdx
+*.~vsdx
 
 # Production files
 *.gmo
